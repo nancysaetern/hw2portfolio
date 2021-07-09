@@ -1,0 +1,27 @@
+.nav {
+    background-color: aqua;
+    justify-content: space-between;
+    align-items: center;
+}
+#about {
+    background-color: beige;
+}
+#work{
+    background-color:cadetblue
+}
+#contact {
+    background-color: blue;
+}
+.flex {
+    display: flex;
+}
+html {
+    background-color: cornflowerblue;
+}
+p {
+    color: cornsilk;
+}
+img {
+    height: 50%;
+    width: 50%;
+}
